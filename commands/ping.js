@@ -8,7 +8,7 @@ module.exports = {
 		try {
 			bot.reply(
 				message.from,
-				`Pong! Pingnya ${duration(message.t, Date.now())} detik`,
+				`Pong! Pingnya ${duration(message.t, Date.now())} detik gas aja`,
 				message.id
 			);
 		} catch (error) {
