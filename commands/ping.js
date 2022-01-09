@@ -3,7 +3,7 @@ const duration = require("../utils/duration");
 module.exports = {
 	name: "ping",
 	syntax: "ping",
-	description: "Cek koneksi bot",
+	description: "Cek koneksi bot WA BACA.IN",
 	async execute(bot, message) {
 		try {
 			bot.reply(
