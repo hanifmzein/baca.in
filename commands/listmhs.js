@@ -1,4 +1,4 @@
-const students = require("../data/students.json");
+const students = require("../data/setoran.json");
 const {
 	classCode,
 	classSemester,

@@ -14,7 +14,7 @@ module.exports = commandHandler = async (bot, message) => {
 	if (message.isGroupMsg && classGroupId !== message.from) return;
 	if (message.type !== "chat" && message.type !== "image") return;
 
-	let msg = message.type == "image" ? message.caption : message.body;
+	let msg = message.type === "image" ? message.caption : message.body;
 	if (!msg.startsWith(botPrefix)) return;
 
 	const args = msg.slice(botPrefix.length).trim().split(/ +/);

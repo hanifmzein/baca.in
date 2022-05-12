@@ -1,0 +1,22 @@
+[
+  {
+    "username" : "hanifmzein",
+    "identity" : {
+      "name" : "Muhamad Hanif Zein",
+      "campus" : "UIN Sunan Kalijaga",
+      "generation" : 2017
+    },
+    "contact" : {
+      "no_wa" : "+6285106287990",
+      "instagram" : "hanifmzein"
+    },
+    "books" : {
+      "total_page" : 1000,
+      "fav_genre" : [
+        "Politik",
+        "Islam",
+        "Pemikiran"
+      ]
+    }
+  }
+]

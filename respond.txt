@@ -1,0 +1,35 @@
+.help
+=====================================
+    .help		-> list syntax dan format serta penjelasan
+    .rules		-> aturan setoran baca buku
+    .ping		-> cek respond bot
+    .done		-> laporan baca buku
+    .auto       -> otomatis
+
+.rules
+=====================================
+    *Aturan Grup*
+    1. Silahkan saling sharing tentang buku
+    2. Silahkan saling mengenal diantara member grup
+    3. Diharapkan laporan selesai baca buku setiap hari sebelum jam 23.59
+    4. Seminimal-minimalnya 1x dalam 2 hari, jika tidak, maka secara otomatis di kick oleh Bot
+    5. Boleh menyebarkan informasi grup ke tempat lain
+
+.ping
+=====================================
+    Pong! Pingnya 1 detik gas aja
+
+.done "Syarah Rasmul Bayan", 100-120
+=====================================
+    *Setoran sampai 8 Maret 2022*
+    1. hanifmzein, "Syarah Rasmul Bayan", hal 100-120
+
+    nb :
+    Maksimal setoran pukul 23.59 8 Maret 2022
+    5. Boleh menyebarkan informasi grup ke tempat lain
+
+.auto
+=====================================
+    -> 18.00 mengingatkan yang belum setoran
+    -> 10.00 peringatan untuk yang hari ini dan kemarin belum setoran
+    -> 23.59 Kick yang belum setoran sama sekali
